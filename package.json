@@ -1,4 +1,12 @@
 {
+  "scripts": {
+    "start": "nodemon app.mjs"
+  },
+  "name": "name",
+  "description": "description",
+  "author": "author",
+  "version": "1.0.0",
+  "main": "pathToMain",
   "dependencies": {
     "express": "^5.1.0",
     "nodemon": "^3.1.10"
